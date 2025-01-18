@@ -1,0 +1,533 @@
+
+    {
+        "Banches": [
+            {
+                "id": "1",
+                "images": "https://thefitnessstore.com/cdn/shop/files/CSSTROT2_360x.jpg?v=1734816168",
+                "title": "Spirit Fitness CSS-TROT Commercial Torso Rotation",
+                "orignalPrice": 3799,
+                "currentPrice": 3299,
+                "discount":-13
+            },
+            {
+                "id": "2",
+                "images": "https://thefitnessstore.com/cdn/shop/files/CSSTEXT2_360x.jpg?v=1734815909",
+                "title": "Spirit Fitness CSS-SHPR Commercial Shoulder Press",
+                "orignalPrice": 3799,
+                "currentPrice": 3299,
+                "discount":-14
+            },
+            {
+                "id": "3",
+                "images": "https://thefitnessstore.com/cdn/shop/files/CSSSROW2_360x.jpg?v=1734815633",
+                "title": "Spirit Fitness CSS-SCPR Commercial Seated Chest Press",
+                "orignalPrice": 3999,
+                "currentPrice": 3499,
+                "discount":-13
+            },
+            {
+                "id": "4",
+                "images": "https://thefitnessstore.com/cdn/shop/files/CSSSQSC2_360x.jpg?v=1734815362",
+                "title": "Spirit Fitness CSS-TROT Commercial Torso Rotation",
+                "orignalPrice": 3799,
+                "currentPrice": 3299,
+                "discount":-14
+            },
+            {
+                "id": "5",
+                "images": "https://thefitnessstore.com/cdn/shop/files/CSSSLGP2_360x.jpg?v=1734815074",
+                "title": "Spirit Fitness CSS-TEXT Commercial Triceps Extension",
+                "orignalPrice": 3499,
+                "currentPrice": 2999,
+                "discount":-15
+               
+            },
+            {
+                "id": "6",
+                "images": "https://thefitnessstore.com/cdn/shop/files/CSSSLGC2_360x.jpg?v=1734814412",
+                "title": "Spirit Fitness CSS-SROW Commercial Seated Row",
+                "orignalPrice": 4099,
+                "currentPrice": 3599,
+                "discount":-13
+                
+            },
+            {
+                "id": "7",
+                "images": "https://thefitnessstore.com/cdn/shop/files/CSSSHPR2_360x.jpg?v=1734814130",
+                "title": "Spirit Fitness CSS-SQSC Commercial Squat/Standing Calf",
+                "orignalPrice": 4499,
+                "currentPrice": 3999,
+                "discount":-12
+                
+            },
+            {
+                "id": "8",
+                "images": "https://thefitnessstore.com/cdn/shop/files/CSSTROT2_360x.jpg?v=1734816168",
+                "title": "Spirit Fitness CSS-SLGP Commercial Seated Leg Press",
+                "orignalPrice": 5699,
+                "currentPrice": 5199,
+                "discount":-13
+            }
+        
+        ],
+    "Product2":[
+        {
+            "id": "9",
+            "images": "https://thefitnessstore.com/cdn/shop/products/BFDR10-0O2A0109_cut-1028px_360x.jpg?v=1640017857",
+            "title": "Best Fitness by Body Solid 3 Tier Dumbbell Rack",
+            "orignalPrice": 169,
+            "currentPrice": 130,
+            "discount":-24
+        },
+        {
+            "id": "10",
+            "images": "https://thefitnessstore.com/cdn/shop/products/BFFID25_IMGL5704_360x.jpg?v=1667489517",
+            "title": "Best Fitness by Body Solid Adjustable Bench",
+            "orignalPrice": 199,
+            "currentPrice": 160,
+            "discount":-20
+        },
+        {
+            "id": "11",
+            "images": "https://thefitnessstore.com/cdn/shop/products/BFE2_DSF0939_360x.jpg?v=1584830787",
+            "title": "Best Fitness by Body Solid BFE2  Center Drive Elliptical Trainer",
+            "orignalPrice": 1795,
+            "currentPrice": 1395,
+            "discount":-23
+        },
+        {
+            "id": "12",
+            "images": "https://thefitnessstore.com/cdn/shop/products/BFMG30_DSF3441_360x.jpg?v=1675603784",
+            "title": "Best Fitness by Body Solid BFMG30 Sportsmans Gym",
+            "orignalPrice": 1295,
+            "currentPrice": 995,
+            "discount":-24
+        },
+        {
+            "id": "13",
+            "images": "https://thefitnessstore.com/cdn/shop/products/eyes_DSF3662_360x.jpg?v=1667499718",
+            "title": "Best Fitness by Body Solid Cable Crossover",
+            "orignalPrice": 540,
+            "currentPrice": 415,
+            "discount":-24
+           
+        },
+        {
+            "id": "14",
+            "images": "https://thefitnessstore.com/cdn/shop/products/BFFID10r_techspecs_360x.jpg?v=1667492026",
+            "title": "Best Fitness by Body Solid Folding Flat/Incline Bench",
+            "orignalPrice": 199,
+            "currentPrice": 160,
+            "discount":-20
+            
+        },
+        {
+            "id": "15",
+            "images": "https://thefitnessstore.com/cdn/shop/products/bfft10r-ex5_360x.jpg?v=1667499343",
+            "title": "Best Fitness by Body Solid Functional Trainer",
+            "orignalPrice": 799,
+            "currentPrice": 625,
+            "discount":-22
+            
+        },
+        {
+            "id": "16",
+            "images": "https://thefitnessstore.com/cdn/shop/products/BFOB10R-Use3_360x.jpg?v=1667492366",
+            "title": "Best Fitness by Body Solid Olympic Weight Bench",
+            "orignalPrice": 345,
+            "currentPrice": 265,
+            "discount":-24
+        }
+    ],
+    "Cardio":[
+        {
+            "id":"17",
+            "images":"https://thefitnessstore.com/cdn/shop/products/ic4b_360x.jpg?v=1574648226",
+            "title":"Schwinn IC4 Indoor Cycling Bike",
+            "orignalPrice": 1199,
+            "currentPrice": 999,
+            "discount":-17
+        },
+        {
+           "id":"18",
+            "images":"https://thefitnessstore.com/cdn/shop/products/ic3-1_360x.jpg?v=1571712037",
+            "title":"Schwinn IC3 Indoor Cycling Bike",
+            "orignalPrice": 799,
+            "currentPrice": 699,
+            "discount":-13
+        },
+        {
+            "id":"19",
+             "images":"https://thefitnessstore.com/cdn/shop/products/e616b_360x.jpg?v=1574646216",
+             "title":"Nautilus E616 Elliptical Trainer",
+             "orignalPrice": 1499,
+             "currentPrice": 1399,
+             "discount":-7
+         },
+         {
+            "id":"20",
+             "images":"https://thefitnessstore.com/cdn/shop/products/05-58641_B1_360x.jpg?v=1615731939",
+             "title":"SPRI FOLDING EXERCISE BI-FOLD MAT",
+             "orignalPrice":89,
+             "currentPrice": 79,
+             "discount":-12
+         },
+         {
+            "id":"21",
+             "images":"https://thefitnessstore.com/cdn/shop/products/81VXRwzMf7L._AC_SL1500_360x.jpg?v=1612650043",
+             "title":"Body-Solid Hanging Exercise Mat",
+             "orignalPrice":53,
+             "currentPrice": 39,
+             "discount":-15
+         },
+         {
+            "id":"22",
+             "images":"https://thefitnessstore.com/cdn/shop/products/monitor_7.jpg?v=1571711980",
+             "title":"The WaterRower Natural in Ash",
+             "orignalPrice":1395,
+             "currentPrice": 1289,
+             "discount":-8
+         },
+         {
+            "id":"23",
+             "images":"https://thefitnessstore.com/cdn/shop/products/02_FreeStep_LT3_1020-0-800x800_360x.jpg?v=1647696540",
+             "title":"Teeter FreeStep LT3 Recumbent Cross Trainer",
+             "orignalPrice":899,
+             "currentPrice": 999,
+             "discount":-19
+         },
+         {
+            "id":"24",
+             "images":"https://thefitnessstore.com/cdn/shop/products/ct800ent_2020__console_01_agtsddeuc73rxmni_360x.jpg?v=1636743895",
+             "title":"Spirit Fitness CT800ENT Commercial Treadmill",
+             "orignalPrice":6999,
+             "currentPrice": 5999,
+             "discount":-15
+         },
+         {
+            "id":"25",
+             "images":"https://thefitnessstore.com/cdn/shop/products/BSTJR1_8b5b3b96-4903-44a4-9954-5402a19f77d0_360x.jpg?v=1611596902",
+             "title":"Body Solid Speed Rope",
+             "orignalPrice":9,
+             "currentPrice": 7,
+             "discount":-21
+         },
+         {
+            "id":"26",
+             "images":"https://thefitnessstore.com/cdn/shop/products/vr400-2_360x.jpg?v=1571712035",
+             "title":"BodyCraft VR400 Pro Folding Air/Magnetic Rower",
+             "orignalPrice":1499,
+             "currentPrice": 1299,
+             "discount":-14
+         },
+         {
+            "id":"27",
+             "images":"https://thefitnessstore.com/cdn/shop/products/schwinn-airdyne-ad7-2_360x.jpg?v=1571712035",
+             "title":"Schwinn AD7 Air Dyne Air Bike",
+             "orignalPrice":1299,
+             "currentPrice": 1199,
+             "discount":-8
+         },
+         {
+            "id":"28",
+             "images":"https://thefitnessstore.com/cdn/shop/products/xe195_console_2_360x.jpg?v=1599615676",
+             "title":"Spirit XE195 Elliptical Machine",
+             "orignalPrice":1699,
+             "currentPrice": 1599,
+             "discount":-6
+         },
+         {
+            "id":"29",
+             "images":"https://thefitnessstore.com/cdn/shop/files/xbr95b_360x.jpg?v=1701201293",
+             "title":"Spirit XBR95 Recumbent Exercise Bike",
+             "orignalPrice":2399,
+             "currentPrice": 2199,
+             "discount":-9
+         },
+         {
+            "id":"30",
+             "images":"https://thefitnessstore.com/cdn/shop/products/230_360x.jpg?v=1584919003",
+             "title":"Spirit XBR95 Recumbent Exercise Bike",
+             "orignalPrice":699,
+             "currentPrice": 599,
+             "discount":-15
+         },
+         {
+            "id":"21",
+             "images":"https://thefitnessstore.com/cdn/shop/products/monitor_2.jpg?v=1571712004",
+             "title":"WaterRower Stainless Steel Designer Rower",
+             "orignalPrice":3295,
+             "currentPrice": 3139,
+             "discount":-5
+         },
+         {
+            "id":"22",
+             "images":"https://thefitnessstore.com/cdn/shop/files/rower2_360x.jpg?v=1689712074",
+             "title":"Spirit XRW600 Rower",
+             "orignalPrice":1299,
+             "currentPrice": 999,
+             "discount":-24
+         },
+         {
+            "id":"23",
+             "images":"https://thefitnessstore.com/cdn/shop/files/XE395ENT-2_360x.jpg?v=1689698775",
+             "title":"Spirit XE395ENT Elliptical",
+             "orignalPrice":3999,
+             "currentPrice": 2999,
+             "discount":-26
+         },
+         {
+            "id":"24",
+             "images":"https://thefitnessstore.com/cdn/shop/files/XBU55ENT2_360x.jpg?v=1689708696",
+             "title":"Spirit XBU55ENT Upright Bike",
+             "orignalPrice":3299,
+             "currentPrice": 2299,
+             "discount":-31
+         },
+         {
+            "id":"25",
+             "images":"https://thefitnessstore.com/cdn/shop/products/62d994246c82cb0f2015c3ca_Reflect-Touch_Gallery4_360x.jpg?v=1671490555",
+             "title":"Echelon Reflect Touch Fitness Mirror",
+             "orignalPrice":1499,
+             "currentPrice": 1199,
+             "discount":-21
+         },
+         {
+            "id":"26",
+             "images":"https://thefitnessstore.com/cdn/shop/products/ex8s4_360x.jpg?v=1671486744",
+             "title":"Echelon EX8s Upright Bike with 24' Monitor",
+             "orignalPrice":3199,
+             "currentPrice": 2299,
+             "discount":-29
+         },
+         {
+            "id":"27",
+             "images":"https://thefitnessstore.com/cdn/shop/products/62d994246c82cbb4fb15c3d6_Ex-Pro_Gallery4.jpg?v=1671483800",
+             "title":"Echelon EX-PRO Commercial Upright Bike with 24 Monitor" ,
+             "orignalPrice":4199,
+             "currentPrice": 3199,
+             "discount":-24
+         },
+         {
+            "id":"28",
+             "images":"https://thefitnessstore.com/cdn/shop/products/62d994246c82cbcaa515c3d1_Row-7s_Gallery5_360x.jpg?v=1670167118",
+             "title":"Echelon Row 7s Commercial Rowing Machine" ,
+             "orignalPrice":2799,
+             "currentPrice": 2199,
+             "discount":-22
+         },
+         {
+            "id":"29",
+             "images":"https://thefitnessstore.com/cdn/shop/products/Stride7s5_360x.jpg?v=1668134250",
+             "title":"ECHELON STRIDE-7s COMMERCIAL SMART TREADMILL" ,
+             "orignalPrice":6499,
+             "currentPrice": 4999,
+             "discount":-24
+         },
+         {
+            "id":"30",
+             "images":"https://thefitnessstore.com/cdn/shop/products/Stride5s5_360x.jpg?v=1668132447",
+             "title":"Echelon Stride-5s Smart Treadmill" ,
+             "orignalPrice":2799,
+             "currentPrice": 2499,
+             "discount":-11
+         }
+         
+    ],
+    "GYMSYSTEM":[
+        {
+           "id": "31",
+            "images": "https://thefitnessstore.com/cdn/shop/products/PFID125_0029.jpg?v=1667407019",
+            "title": "PowerLine by Body Solid Flat / Incline / Decline  Folding Bench",
+            "orignalPrice": 495,
+            "currentPrice": 245,
+            "discount":-24 
+        },
+        {
+            "id": "32",
+             "images": "https://thefitnessstore.com/cdn/shop/products/ppr200x-cut_360x.jpg?v=1630070799",
+             "title": "PowerLine by Body Solid Power Rack",
+             "orignalPrice": 495,
+             "currentPrice": 319,
+             "discount":-36
+         },
+         {
+            "id": "33",
+             "images": "https://thefitnessstore.com/cdn/shop/files/WSA_DSF9603__94406_360x.jpg?v=1706548066",
+             "title": "Body Solid 2.5 lb Add-on Weight",
+             "orignalPrice": 14,
+             "currentPrice": 12,
+             "discount":-14
+         },
+         {
+            "id": "34",
+             "images": "https://thefitnessstore.com/cdn/shop/products/SPR500_360x.jpg?v=1627478459",
+             "title": "Body-Solid SPR500 Commercial Half Rack",
+             "orignalPrice": 750,
+             "currentPrice": 595,
+             "discount":-21
+         },
+         {
+            "id": "35",
+             "images": "https://thefitnessstore.com/cdn/shop/products/lvbp_360x.jpg?v=1626986327",
+             "title": "Body Solid Leverage Bench Press",
+             "orignalPrice": 1195,
+             "currentPrice": 945,
+             "discount":-21
+         },
+         {
+            "id": "36",
+             "images": "https://thefitnessstore.com/cdn/shop/products/MBT_01_360x.jpg?v=1590099837",
+             "title": "InFlight Multi Bicep / Tricep Machine",
+             "orignalPrice": 3335,
+             "currentPrice": 2990,
+             "discount":-11
+         },
+         {
+            "id": "37",
+             "images": "https://thefitnessstore.com/cdn/shop/products/GMFPSTK-Male2_0a91b552-8040-4a09-806d-343b4d5845b0_360x.jpg?v=1627477716",
+             "title": "Body-Solid Pro Select Multi Press Machine",
+             "orignalPrice": 1290,
+             "currentPrice": 1125,
+             "discount":-20
+         },
+         {
+            "id": "38",
+             "images": "https://thefitnessstore.com/cdn/shop/products/SFID425_MilitaryPress_226925f7-fc42-465e-8100-448319c9a101_360x.jpg?v=1702672086",
+             "title": "Body Solid Pro ClubLine SFID425 Adjustable Bench by Body-Solid",
+             "orignalPrice": 625,
+             "currentPrice": 495,
+             "discount":-21 
+         },
+         {
+            "id": "39",
+             "images": "https://thefitnessstore.com/cdn/shop/products/S2FT_1_360x.jpg?v=1571712037",
+             "title": "Body Solid Pro Club Line Series II Functional Trainer",
+             "orignalPrice": 5095,
+             "currentPrice": 4495,
+             "discount":-23 
+         },
+         {
+            "id": "40",
+             "images": "https://thefitnessstore.com/cdn/shop/products/gfid225_360x.jpg?v=1667490965",
+             "title": "Body Solid GFID225 Folding Flat-Incline-Decline Bench",
+             "orignalPrice": 395,
+             "currentPrice": 315,
+             "discount":-21
+         },
+         {
+            "id": "41",
+             "images": "https://thefitnessstore.com/cdn/shop/products/SDC2000G-Cut-2021_360x.jpg?v=1627045576",
+             "title": "Body Solid Pro Club Line Dual Cable Column Machine",
+             "orignalPrice": 3995,
+             "currentPrice": 3750,
+             "discount":-26 
+         },
+         {
+            "id": "42",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSTROT2_360x.jpg?v=1734816168",
+             "title": "Spirit Fitness CSS-TROT Commercial Torso Rotation",
+             "orignalPrice": 3799,
+             "currentPrice": 3299,
+             "discount":-14
+         },
+         {
+            "id": "43",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSTEXT2_360x.jpg?v=1734815909",
+             "title": "Spirit Fitness CSS-TEXT Commercial Triceps Extension",
+             "orignalPrice": 3499,
+             "currentPrice": 2999,
+             "discount":-15
+         },
+         {
+            "id": "44",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSSROW2_360x.jpg?v=1734815633",
+             "title": "Spirit Fitness CSS-SROW Commercial Seated Row",
+             "orignalPrice": 4099,
+             "currentPrice": 3599,
+             "discount":-13
+         },
+         {
+            "id": "45",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSSQSC2_360x.jpg?v=1734815362",
+             "title": "Spirit Fitness CSS-SQSC Commercial Squat / Standing Calf",
+             "orignalPrice": 4499,
+             "currentPrice": 3999,
+             "discount":-12 
+         },
+         {
+            "id": "46",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSSLGP2_360x.jpg?v=1734815074",
+             "title": "Spirit Fitness CSS-SLGP Commercial Seated Leg Press",
+             "orignalPrice": 5699,
+             "currentPrice": 5199,
+             "discount":-9 
+         },
+         {
+            "id": "47",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSSLGC2_360x.jpg?v=1734814412",
+             "title": "Spirit Fitness CSS-SLGC Commercial Seated Leg Curl",
+             "orignalPrice": 3899,
+             "currentPrice": 3399,
+             "discount":-13
+         },
+         {
+            "id": "48",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSSHPR2_360x.jpg?v=1734814130",
+             "title": "Spirit Fitness CSS-SHPR Commercial Shoulder Press",
+             "orignalPrice": 3799,
+             "currentPrice": 3299,
+             "discount":-14
+         },
+         {
+            "id": "49",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSSCEX2_360x.jpg?v=1734813114",
+             "title": "Spirit Fitness CSS-SCEX Commercial Standing Calf Extension",
+             "orignalPrice": 3899,
+             "currentPrice": 3399,
+             "discount":-13 
+         },
+         {
+            "id": "50",
+             "images": "https://thefitnessstore.com/cdn/shop/products/BFOB10R-Use3_360x.jpg?v=1667492366",
+             "title": "Spirit Fitness CSS-SCPR Commercial Seated Chest Press",
+             "orignalPrice": 3999,
+             "currentPrice": 3499,
+             "discount":-13 
+         },
+         {
+            "id": "51",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSPRLC2_360x.jpg?v=1734811697",
+             "title": "Best Fitness by Body Solid Olympic Weight Bench",
+             "orignalPrice": 345,
+             "currentPrice": 265,
+             "discount":-24 
+         },
+         {
+            "id": "52",
+             "images": "https://thefitnessstore.com/cdn/shop/products/BFOB10R-Use3_360x.jpg?v=1667492366",
+             "title": "Spirit Fitness CSS-PRLC Commercial Prone Leg Curl",
+             "orignalPrice": 3899,
+             "currentPrice": 3399,
+             "discount":-13 
+         },
+         {
+            "id": "53",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSLROW2_360x.jpg?v=1734811320",
+             "title": "Spirit Fitness CSS-LROW Commercial Low Row",
+             "orignalPrice": 3699,
+             "currentPrice": 3199,
+             "discount":-14
+         },
+         {
+            "id": "54",
+             "images": "https://thefitnessstore.com/cdn/shop/files/CSSLEXT2_360x.jpg?v=1734810674",
+             "title": "Spirit Fitness CSS-LEXT Commercial Leg Extension",
+             "orignalPrice": 3799,
+             "currentPrice": 3299,
+             "discount":-14 
+         }
+    ]
+    
+    
+    }
